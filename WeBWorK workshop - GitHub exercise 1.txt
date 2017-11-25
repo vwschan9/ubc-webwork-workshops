@@ -1,9 +1,19 @@
+Log in to GitHub.  
+
 Modify this file by doing the following:
 
 1. Create a branch from this repo 
+Go to “Branch:master” button (left hand side just under the “Code” tab), type in a new name, and click on “Create branch: from master”.  Note that you can’t have spaces in your branch name.  
+
 2. Modify the file by adding a comment or question about this workshop so far 
+Click on the pen icon at the top right of the document to start editing.  Type into the section below.  
+
 3. Commit the change
+Type in a description of your change as a title for the commit (below the text area), select “Commit directly to the <name-of-your-branch> branch”, and click on “Commit Changes”.  
+
 4. Create a pull request for the change to be merged into the master branch
+
+
 
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
 
