@@ -1,11 +1,16 @@
+** Basic changes to “code” on GitHub **
+Author: Agnes d’Entremont
+Institution: UBC
+License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
 
-Log in to GitHub.  
+This file is in the ubc-webwork-workshops repo on GitHub. 
 
-Modify this file by doing the following:
+You are going to modify this file by doing the following:
 
 1. Create a branch from this repo. 
-Go to “Branch:master” button (left hand side just under the “Code” tab), type in a new name, and click on “Create branch: from master”.  Note that you can’t have spaces in your branch name.  
+Go to “Branch:master” button (left hand side on the “Code” tab), type in a new name, and click on “Create branch: from master”.  Note that you can’t have spaces in your branch name.  
 
 2. Modify the file by adding a comment or question about this workshop so far. 
 Click on the pen icon at the top right of the document to start editing.  Type into the section below.  
