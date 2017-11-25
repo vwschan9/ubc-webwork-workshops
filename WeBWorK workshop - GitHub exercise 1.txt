@@ -1,0 +1,17 @@
+Modify this file by doing the following:
+
+1. Create a branch from this repo 
+2. Modify the file by adding a comment or question about this workshop so far 
+3. Commit the change
+4. Create a pull request for the change to be merged into the master branch
+
+All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
+
+The facilitators will merge the pull requests as they come in.  You will be notified of the merge (if you have not changed your GitHub settings). 
+
+You can then check that both the master branch as well as the branch you created have your comment/question. 
+
+5. Finally, delete the branch you created
+
+*******
+Comments and questions about this workshop so far:
