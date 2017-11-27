@@ -16,6 +16,7 @@ Go to “Branch:master” button (left hand side on the “Code” tab), type in
 Click on the pen icon at the top right of the document to start editing.  Type into the section below.  
 
 So much potential :)
+Test 2
 
 3. Commit the change.
 Type in a description of your change as a title for the commit (below the text area), select “Commit directly to the <name-of-your-branch> branch”, and click on “Commit Changes”.  
