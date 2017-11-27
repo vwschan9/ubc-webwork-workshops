@@ -7,6 +7,8 @@ All this can be done on GitHub, however if you wish to try doing this via GitHub
 
 This file is in the ubc-webwork-workshops repo on GitHub. 
 
+WARNING: everything you put on GitHub in this repo is publicly available
+
 You are going to modify this file by doing the following:
 
 1. Create a branch from this repo. 
