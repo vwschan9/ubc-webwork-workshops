@@ -1,13 +1,14 @@
-** Basic changes to “code” on GitHub **
-Author: Agnes d’Entremont
-Institution: UBC
-License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+## Basic changes to `code` on GitHub
+
+* Author: Agnes d’Entremont
+* Institution: UBC
+* License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
 
 This file is in the ubc-webwork-workshops repo on GitHub. 
 
-WARNING: everything you put on GitHub in this repo is publicly available
+*WARNING*: everything you put on GitHub in this repo is publicly available
 
 You are going to modify this file by doing the following:
 
