@@ -1,5 +1,5 @@
 ** Upload new code/problems/images to GitHub **
-Author: Agnes dâ€™Entremont
+Author: Agnes d'€™Entremont
 Institution: UBC
 License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
