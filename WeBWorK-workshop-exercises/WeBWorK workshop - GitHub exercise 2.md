@@ -1,5 +1,5 @@
 ** Upload new code/problems/images to GitHub **
-Author: Agnes d'€™Entremont
+Author: Agnes d'Entremont
 Institution: UBC
 License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
@@ -33,8 +33,8 @@ Go to your pull request (Pull requests tab, "Closed" option) and find the "Delet
 
 
 Part B: Upload file(s)
-[Note that there doesn'€™t seem to be a good option to create a folder for your file using this tool.  One of the limitations of working on GitHub rather than with a git client].
-1. Click on "€œUpload files" on the "Code" tab.  
+[Note that there doesn't seem to be a good option to create a folder for your file using this tool.  One of the limitations of working on GitHub rather than with a git client].
+1. Click on "Upload files" on the "Code" tab.  
 
 2. Add a file or several. 
 This method gives you the option to add several files and commit them all at once. 
