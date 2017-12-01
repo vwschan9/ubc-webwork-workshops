@@ -1,13 +1,14 @@
-** Upload new code/problems/images to GitHub **
-Author: Agnes d'Entremont
-Institution: UBC
-License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+## Upload new code/problems/images to GitHub
+
+* Author: Agnes d'Entremont
+* Institution: UBC
+* License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
 
 This file is in the ubc-webwork-workshops repo on GitHub. 
 
-WARNING: everything you put on GitHub in this repo is publicly available
+**WARNING**: everything you put on GitHub in this repo is publicly available
 
 You are going to add files to the ubc-webwork-workshops repo in two ways on GitHub.  
 
@@ -21,7 +22,7 @@ If you want to create a folder to contain your file, type in "/foldername/filena
 3. Copy and paste the code of the problem you modified earlier in workshop into the file.  
 
 4. Commit new file to a new branch.
-Add a title for your commit (other than the default) if you wish, select "€œCreate new branch" and name your branch "username-exercise-2A".  Click on "Propose new file".  
+Add a title for your commit (other than the default) if you wish, select "â‚¬Å“Create new branch" and name your branch "username-exercise-2A".  Click on "Propose new file".  
 
 5. Create a pull request.
 The next page allows you to create a pull request with one click.  Click on "Create pull request". 
