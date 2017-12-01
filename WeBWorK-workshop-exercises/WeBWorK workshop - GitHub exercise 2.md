@@ -21,7 +21,7 @@ If you want to create a folder to contain your file, type in “/foldername/file
 3. Copy and paste the code of the problem you modified earlier in workshop into the file.  
 
 4. Commit new file to a new branch.
-Add a title for your commit (other than the default) if you wish, select “Create new branch” and name your branch <username-exercise-2A>.  Click on “Propose new file”.  
+Add a title for your commit (other than the default) if you wish, select “Create new branch” and name your branch "username-exercise-2A".  Click on “Propose new file”.  
 
 5. Create a pull request.
 The next page allows you to create a pull request with one click.  Click on “Create pull request”. 
@@ -40,7 +40,7 @@ Part B: Upload file(s)
 This method gives you the option to add several files and commit them all at once. 
 
 3. Commit new file(s) to a new branch.
-Add a title for your commit (other than the default) if you wish, select “Create new branch” and name your branch <username-exercise-2B>.  Click on “Propose changes”.  
+Add a title for your commit (other than the default) if you wish, select “Create new branch” and name your branch "username-exercise-2B".  Click on “Propose changes”.  
 
 4. Create a pull request.
 The next page allows you to create a pull request with one click.  Click on “Create pull request”. 

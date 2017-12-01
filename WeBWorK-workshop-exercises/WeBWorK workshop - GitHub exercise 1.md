@@ -12,7 +12,7 @@ WARNING: everything you put on GitHub in this repo is publicly available
 You are going to modify this file by doing the following:
 
 1. Create a branch from this repo. 
-Go to “Branch:master” button (left hand side on the “Code” tab), type in a new name of the form <username-exercise-1>, and click on “Create branch: "new_name" from master”.  Note that you can’t have spaces in your branch name.  
+Go to “Branch:master” button (left hand side on the “Code” tab), type in a new name of the form "username-exercise-1", and click on “Create branch: "new_name" from master”.  Note that you can’t have spaces in your branch name.  
 
 2. Modify the file by adding a comment or question about this workshop so far. 
 Click on the pen icon at the top right of the document to start editing.  Type into the section for comments at the bottom of this document.  
