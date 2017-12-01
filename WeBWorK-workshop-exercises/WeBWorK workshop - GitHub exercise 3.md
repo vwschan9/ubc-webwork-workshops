@@ -7,7 +7,7 @@ All this can be done on GitHub, however if you wish to try doing this via GitHub
 
 This file is in the ubc-webwork-workshops repo on GitHub. 
 
-You are going to add files to the webwork-open-problem-library repo on GitHub.  If your course folder exists on the OPL, you can use either of the two general methods from exercise 2.  If not, you will need use "€œCreate new file".  
+You are going to add files to the webwork-open-problem-library repo on GitHub.  If your course folder exists on the OPL, you can use either of the two general methods from exercise 2.  If not, you will need use "Create new file".  
 
 WARNING: everything you put on GitHub in this repo is publicly available
 
