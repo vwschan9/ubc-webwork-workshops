@@ -32,5 +32,5 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
-
+Here is an edit, commenting on the file so I can change it.
 
