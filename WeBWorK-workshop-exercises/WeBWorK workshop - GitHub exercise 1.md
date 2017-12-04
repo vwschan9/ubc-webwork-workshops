@@ -33,5 +33,5 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
-I like the interactive aspect of this workshop.
 
+What kinds of support do you expect instructors may need from the Centre for Instructional Support?
